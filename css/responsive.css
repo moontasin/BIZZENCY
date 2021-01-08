@@ -1,0 +1,772 @@
+@media (min-width:320px) and (max-width:575px) {
+
+
+
+    /* header-top part start */
+    .header-top .left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-top .right {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-top {
+        font-size: 16px;
+    }
+
+    /* header-top part end */
+
+    /* navbar part start */
+    nav {
+        padding: 15px !important;
+    }
+
+    nav .navbar-brand {
+        padding: 0 !important;
+    }
+
+    .fixed .navbar-brand img {
+        width: 130px;
+    }
+
+    nav ul {
+        margin-top: 10px;
+        text-align: center;
+        background: rgba(15, 47, 68, 0.1);
+    }
+
+    nav ul .nav-item {
+        padding: 10px 0 !important;
+        margin-right: 0px;
+    }
+
+    nav .ul {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    nav ul li a {
+        padding: 5px 15px !important;
+    }
+
+    nav ul li .active {
+        padding: 5px 15px !important;
+    }
+
+    nav ul li a {
+        padding: 5px 15px !important;
+    }
+
+    .fixed {
+        padding: 10px !important;
+    }
+
+    .fixed .navbar-brand {
+        padding: 0 !important;
+    }
+
+    .fixed .ul {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .fixed ul .nav-item {
+        padding: 10px 0 !important;
+
+    }
+
+    /* navbar part end */
+
+    /* banner part start */
+    #banner {
+        padding: 45px 0;
+    }
+
+    #banner h1 {
+        font-size: 64px;
+    }
+
+    #banner .our {
+        font-size: 23px;
+    }
+
+    #banner .details {
+        width: 305px;
+    }
+
+    #banner a {
+        margin-top: 25px;
+    }
+
+    /* banner part end */
+    /* about part start*/
+    #about-part .left p {
+        margin-top: 15px;
+        width: auto;
+        line-height: 1.5;
+    }
+
+    #about-part .left ul li {
+        margin-top: 15px;
+    }
+
+
+    #about-part .right img {
+        margin-top: 35px;
+    }
+
+    /* about part end */
+
+
+    /* our skills  part start*/
+
+    #skill .right img {
+        width: 100%;
+    }
+
+    /* our skills part end */
+
+
+    /* our service part end */
+    #our-service .web1 .text p {
+        width: auto;
+        font-size: 11px;
+    }
+
+    /* our service part end */
+
+    /* our pricing part end */
+
+    #pricing .box-all .pricing-slide .box {
+        margin-left: 0;
+    }
+
+    #pricing .box-all .pricing-slide .box {
+        transform: scale(1);
+        margin: 0 30px;
+    }
+
+    #pricing .box-all .pricing-slide .box img {
+        margin: 0 auto;
+        padding-top: 10px;
+    }
+
+    /* our pricing part end */
+
+
+    /* our expert team part end */
+
+    #expert .web-all .expert-slide .next {
+        top: 41%;
+        right: -3%;
+    }
+
+    #expert .web-all .expert-slide .prev {
+        top: 41%;
+        left: -3%;
+    }
+
+    #expert .web-all .expert-slide .web img {
+        height: unset;
+    }
+
+    /* our expert team part end */
+
+    /* our protfolio part end */
+
+    #protfolio .images .next {
+        top: 88%;
+        right: 29%;
+    }
+
+    #protfolio .images .prev {
+        top: 88%;
+        left: 30%;
+    }
+
+    /* our protfolio part end */
+
+
+
+    /* our testimonial part end */
+
+    #testimonial .web1 .text p {
+        width: auto;
+        margin-left: 5px;
+        line-height: 15px;
+        margin-top: 5px;
+    }
+
+    #testimonial .prev {
+        top: 95% !important;
+        left: 104px !important;
+    }
+
+    #testimonial .next {
+        top: 95% !important;
+        right: 70px !important;
+    }
+
+    /* our testimonial part end */
+
+
+    /* our blog part end */
+
+    #blog .blog-slider .next {
+        top: 35%;
+        right: -1%;
+    }
+
+    #blog .blog-slider .prev {
+        top: 35%;
+        left: -1%;
+    }
+
+    /* our blog part end */
+
+
+    /* our footer part end */
+    #end-part .details {
+        width: auto;
+    }
+
+    #end-part .details .text span {
+        border: none;
+    }
+
+    #end-part .details .text1 {
+        border: none;
+    }
+
+    #end-part .details p {
+        text-align: center;
+        float: none;
+        margin: 0 auto;
+    }
+
+    .btop {
+        z-index: 9999;
+    }
+
+    /* our footer part end */
+
+}
+
+
+@media (min-width:576px) and (max-width:767px) {
+
+
+
+    /* header-top part start */
+    .header-top .left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-top .right {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-top {
+        font-size: 16px;
+    }
+
+    /* header-top part end */
+
+    /* navbar part start */
+    nav {
+        padding: 15px !important;
+    }
+
+    nav .navbar-brand {
+        padding: 0 !important;
+    }
+
+    .fixed .navbar-brand img {
+        width: 130px;
+    }
+
+    nav ul {
+        margin-top: 10px;
+        text-align: center;
+        background: rgba(15, 47, 68, 0.1);
+    }
+
+    nav ul .nav-item {
+        padding: 10px 0 !important;
+        margin-right: 0px;
+    }
+
+    nav .ul {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    nav ul li a {
+        padding: 5px 15px !important;
+    }
+
+    nav ul li .active {
+        padding: 5px 15px !important;
+    }
+
+    nav ul li a {
+        padding: 5px 15px !important;
+    }
+
+    .fixed {
+        padding: 10px !important;
+    }
+
+    .fixed .navbar-brand {
+        padding: 0 !important;
+    }
+
+    .fixed .ul {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .fixed ul .nav-item {
+        padding: 10px 0 !important;
+
+    }
+
+    /* navbar part end */
+
+    /* banner part start */
+    #banner {
+        padding: 45px 0;
+    }
+
+    #banner h1 {
+        font-size: 64px;
+    }
+
+    #banner .our {
+        font-size: 23px;
+    }
+
+    #banner .details {
+        width: 305px;
+    }
+
+    #banner a {
+        margin-top: 25px;
+    }
+
+    /* banner part end */
+    /* about part start*/
+    #about-part .left p {
+        margin-top: 15px;
+        width: auto;
+        line-height: 1.5;
+    }
+
+    #about-part .left ul li {
+        margin-top: 15px;
+    }
+
+
+    #about-part .right img {
+        margin-top: 35px;
+    }
+
+    /* about part end */
+
+
+    /* our skills  part start*/
+
+    #skill .right img {
+        width: 100%;
+    }
+
+    /* our skills part end */
+
+
+    /* our service part end */
+    #our-service .web1 .text p {
+        width: auto;
+        font-size: 11px;
+    }
+
+    /* our service part end */
+
+    /* our pricing part end */
+
+    #pricing .box-all .pricing-slide .box {
+        margin-left: 0;
+    }
+
+    #pricing .box-all .pricing-slide .box {
+        transform: scale(1);
+        margin-left: 10px;
+    }
+
+    #pricing .box-all .pricing-slide .box img {
+        margin: 0 auto;
+        padding-top: 10px;
+    }
+
+    /* our pricing part end */
+
+
+    /* our expert team part end */
+
+    #expert .web-all .expert-slide .next {
+        top: 41%;
+        right: -3%;
+    }
+
+    #expert .web-all .expert-slide .prev {
+        top: 41%;
+        left: -3%;
+    }
+
+    #expert .web-all .expert-slide .web img {
+        height: unset;
+    }
+
+    /* our expert team part end */
+
+    /* our protfolio part end */
+
+    #protfolio .images .next {
+        top: 39%;
+        right: -5px;
+    }
+
+    #protfolio .images .prev {
+        top: 39%;
+        left: -5px;
+    }
+
+    /* our protfolio part end */
+
+
+
+    /* our testimonial part end */
+
+    #testimonial .web1 .text p {
+        width: auto;
+        margin-left: 5px;
+        line-height: 15px;
+        margin-top: 5px;
+    }
+
+    #testimonial .prev {
+        top: 95% !important;
+        left: 205px !important;
+    }
+
+    #testimonial .next {
+        top: 95% !important;
+        right: 170px !important;
+    }
+
+    /* our testimonial part end */
+
+
+    /* our blog part end */
+
+    #blog .blog-slider .next {
+        top: 35%;
+        right: -1%;
+    }
+
+    #blog .blog-slider .prev {
+        top: 35%;
+        left: -1%;
+    }
+
+    /* our blog part end */
+
+
+    /* our footer part end */
+    #end-part .details {
+        width: auto;
+    }
+
+    #end-part .details .text span {
+        border: none;
+    }
+
+    #end-part .details .text1 {
+        border: none;
+    }
+
+    #end-part .details p {
+        text-align: center;
+        float: none;
+        margin: 0 auto;
+    }
+
+    .btop {
+        z-index: 9999;
+    }
+
+    /* our footer part end */
+
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+
+    /* navbar part start */
+    nav {
+        padding: 15px !important;
+    }
+
+    nav .navbar-brand {
+        padding: 0 !important;
+    }
+
+    .fixed .navbar-brand img {
+        width: 130px;
+    }
+
+    nav ul {
+        margin-top: 10px;
+        text-align: center;
+        background: rgba(15, 47, 68, 0.1);
+    }
+
+    nav ul .nav-item {
+        padding: 10px 0 !important;
+        margin-right: 0px;
+    }
+
+    nav .ul {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    nav ul li a {
+        padding: 5px 15px !important;
+    }
+
+    nav ul li .active {
+        padding: 5px 15px !important;
+    }
+
+    nav ul li a {
+        padding: 5px 15px !important;
+    }
+
+    .fixed {
+        padding: 10px !important;
+    }
+
+    .fixed .navbar-brand {
+        padding: 0 !important;
+    }
+
+    .fixed .ul {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .fixed ul .nav-item {
+        padding: 10px 0 !important;
+
+    }
+
+    /* navbar part end */
+
+    /* banner part start */
+    #banner {
+        padding: 45px 0;
+    }
+
+    #banner h1 {
+        font-size: 64px;
+    }
+
+    #banner .our {
+        font-size: 23px;
+    }
+
+    #banner .details {
+        width: 305px;
+    }
+
+    #banner a {
+        margin-top: 25px;
+    }
+
+    /* banner part end */
+    /* about part start*/
+    #about-part .left p {
+        margin-top: 15px;
+        width: auto;
+        line-height: 1.5;
+    }
+
+    #about-part .left ul li {
+        margin-top: 15px;
+    }
+
+
+    #about-part .right img {
+        margin-top: 35px;
+    }
+
+    /* about part end */
+
+
+    /* our skills  part start*/
+
+    #skill .right img {
+        width: 100%;
+    }
+
+    /* our skills part end */
+
+
+    /* our service part end */
+    #our-service .web1 .text p {
+        width: auto;
+        font-size: 11px;
+    }
+
+    #our-service .ser {
+        width: 240px;
+        float: left;
+        padding-right: 0;
+        padding-left: 5px;
+    }
+
+    #our-service .web1 .text h3 {
+        font-size: 20px;
+    }
+
+    #our-service .web1 .img img {
+        width: 70%;
+    }
+
+    /* our service part end */
+
+    /* our pricing part end */
+
+    #pricing .box-all .pricing-slide .box {
+        margin-left: 0;
+    }
+
+    #pricing .box-all .pricing-slide .box {
+        transform: scale(1);
+        margin-left: 10px;
+    }
+
+    #pricing .box-all .pricing-slide .box img {
+        margin: 0 auto;
+        padding-top: 10px;
+    }
+
+    /* our pricing part end */
+
+
+    /* our expert team part end */
+
+    #expert .web-all .expert-slide .next {
+        top: 41%;
+        right: -1%;
+    }
+
+    #expert .web-all .expert-slide .prev {
+        top: 41%;
+        left: -3%;
+    }
+
+    #expert .web-all .expert-slide .web img {
+        height: unset;
+    }
+
+    /* our expert team part end */
+
+    /* our protfolio part end */
+
+    #protfolio .images .next {
+        top: 39%;
+        right: -5px;
+    }
+
+    #protfolio .images .prev {
+        top: 39%;
+        left: -5px;
+    }
+
+    /* our protfolio part end */
+
+
+
+    /* our testimonial part end */
+
+    #testimonial .web1 .text p {
+        width: auto;
+        margin-left: 5px;
+        line-height: 15px;
+        margin-top: 5px;
+    }
+
+    #testimonial .prev {
+        top: 95% !important;
+        left: 205px !important;
+    }
+
+    #testimonial .next {
+        top: 95% !important;
+        right: 170px !important;
+    }
+
+    /* our testimonial part end */
+
+
+    /* our blog part end */
+
+    #blog .blog-slider .next {
+        top: 35%;
+        right: -1%;
+    }
+
+    #blog .blog-slider .prev {
+        top: 35%;
+        left: -1%;
+    }
+
+    /* our blog part end */
+
+
+    /* our footer part end */
+
+    #footer .fot{
+        width: 360px;
+    } 
+    #end-part .details {
+        width: auto;
+    }
+
+    #end-part .details .text span {
+        border: none;
+    }
+
+    #end-part .details .text1 {
+        border: none;
+    }
+
+    #end-part .details p {
+        text-align: center;
+        float: none;
+        margin: 0 auto;
+    }
+
+    .btop {
+        z-index: 9999;
+    }
+
+    /* our footer part end */
+
+}
